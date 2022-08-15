@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanteExavyer
+- 👋 Hi, I’m ##**DanteExavyer**##
 - 👀 I’m interested in development 
 - 🌱 I’m currently learning codeing 
 - 💞️ I’m looking to collaborate on ...
